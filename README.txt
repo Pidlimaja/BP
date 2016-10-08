@@ -1,0 +1,1 @@
+BP: Webová aplikace pro snadnou editaci krátkých textů s omezeným slovníkem
